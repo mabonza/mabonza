@@ -1,0 +1,20 @@
+# This file is auto-generated during the composer install
+parameters:
+    database_driver: pdo_mysql
+    database_host: 127.0.0.1
+    database_port: null
+    database_name: ecommerce
+    database_user: root
+    database_password: null
+    mailer_transport: smtp
+    mailer_host: smtp.gmail.com
+    mailer_encryption: ~
+    mailer_user: ~
+    mailer_password: ~
+    locale: en
+    secret: ThisTokenIsNotSoSecretChangeIt
+twig:
+    globals:
+        telephone: '(012) 342 3840'
+        fax: '086 999 0200'
+        adresse: '312 Pretorius Str, Hatfield, Pretoria. P.O. Box 6574, Pretoria, 0001'
